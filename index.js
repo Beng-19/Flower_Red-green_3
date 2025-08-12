@@ -4,4 +4,3 @@ CSSConditionRule.log("anhon haseyo, sarangheyo")
 
 CSSConditionRule.log("anhon haseyo, wall eyes knee")
 
-Log("sai")
